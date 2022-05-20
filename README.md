@@ -1,24 +1,9 @@
-# README
+Demo app en rails 7
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+rails action_text:install funciona con active storage out of the box, pero no me renderiza las imagenes.
 
-* System dependencies
+para solucionarlo, en gemfile:
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* gem "mini-manick"
