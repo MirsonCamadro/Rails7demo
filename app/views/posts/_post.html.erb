@@ -11,4 +11,8 @@
 
   <p>Posted <%= time_ago_in_words(post.created_at) %> ago</p>
 
+  <p>
+    <strong><%= pluralize post.comments.count, "comment" %></strong>
+  </p>
+
 </div>
