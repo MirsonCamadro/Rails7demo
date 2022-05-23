@@ -27,4 +27,6 @@ segun: https://github.com/rails/rails/issues/44211
 
 rails g mailer comments submitted
 
+----
+
 
