@@ -23,4 +23,8 @@ config.active_storage.variant_processor = :mini_magick
 
 segun: https://github.com/rails/rails/issues/44211
 
+---
+
+rails g mailer comments submitted
+
 
